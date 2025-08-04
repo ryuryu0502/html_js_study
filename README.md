@@ -7,4 +7,6 @@
 ## Study0
 20250804 とりあえずコミット
 
-## Study1 jQueryの基本的な書き方を覚えよう！
+## Study001 jQuery入門講座🔰【初心者でも20分で学べるjQueryチュートリアル
+[参考サイト](https://www.youtube.com/watch?v=75ccB4PTVCc)
+~06:37 main001.html
